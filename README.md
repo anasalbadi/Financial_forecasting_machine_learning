@@ -32,6 +32,6 @@ The model is used to make predictions on new data by processing the last 60 days
 The tutorial showcases how machine learning, particularly LSTM networks, can be applied for financial forecasting, offering a foundation for more complex financial predictions. For further reading, the author suggests the book "Algorithmic Trading" by Lyron Foster.
 
 
-
+https://medium.com/@lfoster49203/financial-forecasting-with-machine-learning-using-python-numpy-pandas-matplotlib-and-3a636989999b
 
 
