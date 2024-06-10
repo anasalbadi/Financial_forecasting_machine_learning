@@ -35,12 +35,12 @@ https://medium.com/@lfoster49203/financial-forecasting-with-machine-learning-usi
 
 ## Next Steps:
 1. API Integration for Automated Data Collection
-Automate Data Retrieval: Schedule regular data updates using a cron job or a task scheduler.
-Error Handling: Implement error handling to manage API request failures or data discrepancies.
-API Key Management: Securely store API keys using environment variables or secret management tools.
+- Automate Data Retrieval: Schedule regular data updates using a cron job or a task scheduler.
+- Error Handling: Implement error handling to manage API request failures or data discrepancies.
+- API Key Management: Securely store API keys using environment variables or secret management tools.
 2. Data Preprocessing Enhancements
-Additional Features: Include more features like trading volume, technical indicators (e.g., moving averages, RSI), or macroeconomic data.
-Data Cleaning: Implement more robust data cleaning procedures to handle missing values or outliers.
-Data Augmentation: Use techniques like sliding windows or data augmentation to increase the training dataset size.
+- Additional Features: Include more features like trading volume, technical indicators (e.g., moving averages, RSI), or macroeconomic data.
+- Data Cleaning: Implement more robust data cleaning procedures to handle missing values or outliers.
+- Data Augmentation: Use techniques like sliding windows or data augmentation to increase the training dataset size.
 
 
